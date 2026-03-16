@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Help & Documentation - Champ Build Finder</title>
+    <link rel="stylesheet" href="help.css">
+</head>
+
+<body>
+    <div class="page-wrapper">
+        <header class="brand">
+            <div class="viewport-limit">
+                <h1>Champ Build Finder <span class="badge">v1.0.1</span></h1>
+                <p>Find your champions best build quickly and consistently on your favorite build recommendation
+                    websites.</p>
+            </div>
+        </header>
+
+        <main class="viewport-limit">
+            <section class="help-section">
+                <h2>🚀 Quick Start Guide</h2>
+                <div class="card highlight">
+                    <p>This extension operates directly inside your address bar through a simple keyword:</p>
+                    <div class="steps">
+                        <div class="step">1. Click your address bar (or press <code>Ctrl+L</code>)</div>
+                        <div class="step">2. Type <code title="This is the keyword.">build</code> and press
+                            <code>Space</code>
+                        </div>
+                        <div class="step">3. Type a champion name (e.g., <code>Aatrox</code> or <code
+                                title="Champion abbreviations are supported!">TF</code>)</div>
+                        <div class="step">4. Press <code>Enter</code> to be directed to the champs build page!</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="help-section">
+                <h2>Supported Websites</h2>
+                <p>You can select your preferred build recommendation website in the extension's pooup menu. Supported
+                    websites include:</p>
+                <div class="services-grid">
+                    <a href="https://u.gg/" target="_blank">U.GG</a>
+                    <a href="https://op.gg/" target="_blank">OP.GG</a>
+                    <a href="https://blitz.gg/" target="_blank">Blitz</a>
+                    <a href="https://lolalytics.com/" target="_blank">Lolalytics</a>
+                    <a href="https://mobalytics.gg/" target="_blank">Mobalytics</a>
+                    <a href="https://poro.gg/" target="_blank">Poro.gg</a>
+                    <a href="https://www.metasrc.com/" target="_blank">METAsrc</a>
+                </div>
+            </section>
+
+            <section class="help-section">
+                <h2>Champion Keywords & Aliases</h2>
+                <p>You can use full names, shorthand, or common nicknames. Below is the full list of supported detection
+                    terms:</p>
+                <div class="search-box">
+                    <input type="text" id="champSearch" placeholder="Search for a champion...">
+                </div>
+                <div class="table-container">
+                    <table id="champTable">
+                        <thead>
+                            <tr>
+                                <th>Champion ID</th>
+                                <th>Champion Aliases</th>
+                            </tr>
+                        </thead>
+                        <tbody id="champTableBody">
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+
+        <footer class="help-footer">
+            <div class="viewport-limit">
+                <p>Created by <strong class="make-purple">Starswept Development</strong></p>
+                <div class="footer-links">
+                    <a href="https://github.com/cdmanning" target="_blank" class="hint"
+                        data-hint="View source code & profile">GitHub</a>•
+                    <a href="https://chromewebstore.google.com/search/Starswept%20Development" target="_blank"
+                        class="hint" data-hint="View my other extensions">More Extensions</a>•
+                    <a href="mailto:starswept.dev@gmail.com" class="hint" data-hint="Questions or bug reports?">Contact
+                        Support</a>
+                </div>
+                <p class="trademark-attribution">
+                    Champ Build Finder isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or 
+                    anyone officially involved in producing or managing League of Legends. All product names, logos, and brands 
+                    are property of their respective owners. All company, product, and service names used on this website are for 
+                    identification purposes only. Use of these names, logos, and brands does not imply endorsement.</p>
+            </div>
+        </footer>
+    </div>
+    <script src="help.js"></script>
+</body>
+
+</html>

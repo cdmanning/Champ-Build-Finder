@@ -1,0 +1,173 @@
+:root {
+    --toggle-on: #8e44ad;
+    --bg: #ffffff;
+    --surface: #f8f9fa;
+    --border: #dee2e6;
+    --text-primary: #212529;
+    --text-secondary: #6c757d;
+    --purple: #9D00FF;
+    --white: #495057;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #0c1014;
+        --surface: #1a1e23;
+        --border: #2d3239;
+        --text-primary: #ffffff;
+        --text-secondary: #adb5bd;
+        --purple: #BC13FE;
+        --white: #FFFFFF;
+        --purple-glow: rgba(188, 19, 254, 0.5);
+    }
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text-primary);
+    font-family: "Inter", sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 21px;
+}
+
+.viewport-limit {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px; }
+
+/* Header Styling */
+.brand {
+    background: var(--surface);
+    padding: 30px 0 10px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 40px;
+}
+
+.brand h1 {
+    font-size: 48px;
+    color: var(--purple);
+    margin: 0; }
+
+.badge {
+    font-size: 18px;
+    background: var(--border);
+    padding: 6px 12px; 
+    border-radius: 6px;
+    vertical-align: middle;
+}
+
+.help-section {
+    margin-bottom: 40px;
+}
+
+.help-section h2 {
+    font-size: 36px;
+    margin-bottom: 24px;
+}
+
+.card.highlight {
+background: var(--surface);
+    border-left: 6px solid var(--purple);
+    padding: 30px;
+    border-radius: 12px;
+}
+
+code { 
+    font-size: 19px;
+    padding: 3px 9px; 
+    border-radius: 6px; 
+    color: var(--purple); 
+    border: 1px solid var(--border); 
+}
+
+.step { 
+    margin: 15px 0; 
+    font-size: 21px;
+}
+
+.services-grid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 30px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    margin: 38px 0;
+}
+
+.services-grid a {
+    font-weight: 600;
+    font-size: 20px; /* Matching your 1.5x scale */
+    color: var(--white);
+    text-decoration: none; /* Removes default underline */
+    transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.services-grid a:hover {
+    color: var(--green);
+    transform: translateY(-2px);
+    text-decoration: none; /* Ensure it stays clean on hover */
+    text-shadow: 0 0 12px var(--white);
+}
+
+.table-container { 
+    margin-top: 30px; 
+    border-radius: 12px; 
+    border: 1px solid var(--border); 
+    overflow: hidden;
+}
+
+table { width: 100%; border-collapse: collapse; background: var(--surface); }
+
+th, td { 
+    padding: 18px 24px;
+    vertical-align: middle;
+    border-bottom: 1px solid var(--border); 
+}
+
+th { 
+    font-size: 21px;
+    background: var(--border); 
+    color: var(--text-secondary); 
+}
+
+.search-box input {
+    font-size: 18px;
+    padding: 18px;
+    border-radius: 9px; 
+    background: var(--surface); 
+    border: 1px solid var(--border); 
+    color: var(--text-primary);
+    margin-bottom: 15px;
+}
+
+.help-footer { 
+    padding: 60px 0; 
+    border-top: 1px solid var(--border); 
+    margin-top: 90px;
+    text-align: center; 
+}
+
+.make-purple {
+    color: var(--purple);
+    text-shadow: 0 0 12px var(--purple-glow);
+    letter-spacing: 3px;
+}
+
+.footer-links a { 
+    font-size: 19px;
+    color: var(--purple); 
+    margin: 0 15px; 
+    text-decoration: none; 
+    font-weight: 600; 
+}
+
+.trademark-attribution {
+    font-size: 14px;
+    margin-top: 20px;
+    opacity: 0.6;
+}
