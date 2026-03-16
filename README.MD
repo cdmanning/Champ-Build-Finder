@@ -6,8 +6,6 @@ Champ Build Finder helps you find a champion's recommended build page quickly an
 <summary><b> 🎮 Click to see how Champ Build Finder saved this players game!</b> 🎮</summary>
 <br>
 
-<div style="border-left: 4px solid #8a2be2; padding-left: 15px; margin-left: 5px;">
-
 **Random Player:** 
 "Augh, I don't know what starter item I should build and I only have 15 seconds until waves spawn! Its not enough time! Can you show me how you always know what to build!"
 
