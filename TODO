@@ -1,1 +1,2 @@
-Change <span class="description">Enable detection of Keywords</span> to work with experamental mdoe. 
+- [] Implement feature allowing for custom user alias's when loading champions.json.
+- [] Add MOBAFire support. 
