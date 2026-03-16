@@ -20,8 +20,8 @@ Champ Build Finder streamlines your pre-game preparation by mapping champion nam
 
 ## ✨ Features
 * **Omnibox Integration:** Type the `build` keyword in the address bar to bypass traditional search results. No more navigating through menus! 
-* **Champion Aliases:** Don't worry about perfect spelling. Whether you type "TF," "Twisted Fate," or even a common nickname, the extension knows exactly who you mean.
-* **Curated Analytics Sites:** Choose from a variety of top-tier build sites (like u.gg, OP.GG, or Lolalytics) and set your favorite as the default destination.
+* **Champion Aliases:** Don't worry about perfect spelling. Whether you type "Twisted Fate" or a common nickname like "TF", the extension knows exactly who you mean.
+* **Curated Analytics Sites:** Choose from a variety of the top build analytics websites and set your favorite as the default destination.
 
 ## 🛠️ Installation & Usage
 
