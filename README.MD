@@ -1,6 +1,6 @@
 # ![](documentation/ReadMeIcon.png) Champ Build Finder
 
-Champ Build Finder helps you find a champion's recommended build page quickly and consistently on your preferred analytics platform. Simply pick your favorite build analytics site, and we’ll handle the navigation so you can focus on the rift."
+Champ Build Finder streamlines your pre-game preparation by mapping champion names directly to your favorite analytics platform. Searching the web for build recommendations is often slow and prone to inconsistent results; our extension bypasses the clutter, ensuring you have the exact information you need, exactly when you need it, so you can spend less time in the browser and more time on the Rift.
 
 <details>
 <summary><b> 🎮 Click to see how Champ Build Finder saved this players game!</b> 🎮</summary>
@@ -17,9 +17,6 @@ Champ Build Finder helps you find a champion's recommended build page quickly an
 > **Random Player:** 
 > "Wow! This will save me literal seconds! I'll have time to both eat a chip and buy items!"
 </details>
-
-## ⚡ Why Use Champ Build Finder?
-In the time before a League of Legends game, every second counts. Searching the internet for what to build wastes your time with inconsistent website results. Using "Champ Build Finder" jumps this hurdle by mapping champion names directly to your favorite build recommendation website, ensuring you have the information you need, right when you need it.
 
 ## ✨ Features
 * **Omnibox Integration:** Type the `build` keyword in the address bar to bypass traditional search results. No more navigating through menus! 
