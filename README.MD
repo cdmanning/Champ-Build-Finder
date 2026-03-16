@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ![](documentation/ReadMeIcon.png) Champ Build Finder
 
 Champ Build Finder helps you find a champion's recommended build page quickly and consistently on your preferred analytics platform. Simply pick your favorite build analytics site, and we’ll handle the navigation so you can focus on the rift."
@@ -58,7 +57,3 @@ The build keyword acts as a "trigger" that tells your browser to route the reque
 
 **Where can I fid the list of champion aliases?**
 You can view the full alias list in our [champions.json](https://github.com/cdmanning/Champ-Build-Finder/blob/main/app/champions.json) or via the Help page in the extension pop-up.
-=======
-
-rrr
->>>>>>> df1eef48396f43e47caa38e93793d444b7a76966
