@@ -40,13 +40,17 @@ You're all set! Simply type `build` followed by a space and your champion’s na
 ## ❓ Frequently Asked Questions
 
 **Can I request new champion aliases?**
+
 Yes! I am constantly updating the alias database to make it smarter. 
 
 **Can I suggest a new analytics site?**
+
 Absolutely. If there's a reliable analytics platform that isn't currently supported, let me know and I will look into adding it.
 
 **Why do I need to type build before the champion's name?**
+
 The build keyword acts as a "trigger" that tells your browser to route the request through the extension rather than performing a standard Google search. This allows for near-instant navigation to your target page.
 
 **Where can I fid the list of champion aliases?**
+
 You can view the full alias list in our [champions.json](https://github.com/cdmanning/Champ-Build-Finder/blob/main/app/champions.json) or via the Help page in the extension pop-up.
