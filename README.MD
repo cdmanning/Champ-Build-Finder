@@ -25,13 +25,13 @@ Champ Build Finder streamlines your pre-game preparation by mapping champion nam
 
 ## 🛠️ Installation & Usage
 
-<h3>1. Installation</h3>
+### 1. Installation
 Install the "Champ Build Finder" extension directly from the [Chrome Web Store](http://chromewebstore.google.com/detail/) 
 
-<h3>2. Choose your build analytics website</h3>
+### 2. Choose your build analytics website
 Once installed, click the extension icon in your browser toolbar. Use the dropdown menu to select your preferred analytics platform. Your choice will be saved automatically.
 
-<h3>3. Start Searching</h3>
+### 3. Start Searching
 You're all set! Simply type `build` followed by a space and your champion’s name into your browser’s address bar. Press Enter to jump straight to their recommended build.
 
 ## ❓ Frequently Asked Questions
