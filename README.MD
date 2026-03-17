@@ -23,13 +23,19 @@ Champ Build Finder streamlines your pre-game preparation by mapping champion nam
 * **Champion Aliases:** Whether you type "Twisted Fate" or a common nickname like "TF", the extension knows exactly what you mean.
 * **Curated Analytics Sites:** Choose from a variety of the top build analytics websites and set your favorite as the default destination.
 
-## 🌐 Supported Analytics Platforms
-Champ Build Finder currently supports the following industry-standard platforms. You can toggle your default provider at any time in the extension settings.
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| **[U.GG](https://u.gg/)** | **[OP.GG](https://op.gg/)** | **[Blitz.gg](https://blitz.gg/)** | **[Lolalytics](https://lolalytics.com/)** |
-| **[Mobalytics](https://mobalytics.gg/)** | **[Poro.gg](https://poro.gg/)** | **[METAsrc](https://www.metasrc.com/)** | |
+## 🌐 Supported Analytics Platforms
+Champ Build Finder works with the most popular platforms to ensure you get the data you trust.
+
+<p>
+  <b><a href="https://u.gg/">U.GG</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b><a href="https://op.gg/">OP.GG</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b><a href="https://blitz.gg/">Blitz.gg</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b><a href="https://lolalytics.com/">Lolalytics</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b><a href="https://mobalytics.gg/">Mobalytics</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b><a href="https://poro.gg/">Poro.gg</a></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <b><a href="https://www.metasrc.com/">METAsrc</a></b>
+</p>
 
 ## 🛠️ Installation & Usage
 
