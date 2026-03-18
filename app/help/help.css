@@ -1,7 +1,6 @@
 :root {
-    --toggle-on: #8e44ad;
     --bg: #ffffff;
-    --surface: #f8f9fa;
+    --surface: #f5f5f5;
     --border: #dee2e6;
     --text-primary: #212529;
     --text-secondary: #6c757d;
@@ -36,7 +35,6 @@ body {
     margin: 0 auto;
     padding: 0 30px; }
 
-/* Header Styling */
 .brand {
     background: var(--surface);
     padding: 30px 0 10px;
@@ -101,16 +99,16 @@ code {
 
 .services-grid a {
     font-weight: 600;
-    font-size: 20px; /* Matching your 1.5x scale */
+    font-size: 20px;
     color: var(--white);
-    text-decoration: none; /* Removes default underline */
+    text-decoration: none;
     transition: transform 0.2s ease, color 0.2s ease;
 }
 
 .services-grid a:hover {
     color: var(--green);
     transform: translateY(-2px);
-    text-decoration: none; /* Ensure it stays clean on hover */
+    text-decoration: none;
     text-shadow: 0 0 12px var(--white);
 }
 
@@ -121,7 +119,11 @@ code {
     overflow: hidden;
 }
 
-table { width: 100%; border-collapse: collapse; background: var(--surface); }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: var(--surface);
+}
 
 th, td { 
     padding: 18px 24px;

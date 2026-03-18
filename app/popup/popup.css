@@ -80,7 +80,6 @@ body {
     transition: fill 0.3s ease;
 }
 
-/* Breathing Keyframes */
 @keyframes rune-pulse {
     0% {
         transform: scale(0.98);
@@ -106,7 +105,6 @@ body {
 
 .logo.active {
     filter: grayscale(0) opacity(1);
-    /* Applying the internal SVG filter for extra magic depth */
     filter: url(#purple-glow-filter); 
     animation: rune-pulse 3s ease-in-out infinite;
 }

@@ -61,5 +61,3 @@ The build keyword acts as a "trigger" that tells your browser to route the reque
 
 **Where can I find the list of champion aliases?**<br>
 You can view the full alias list in our [champions.json](https://github.com/cdmanning/Champ-Build-Finder/blob/main/app/champions.json) or via the Help page in the extension pop-up.
-
-

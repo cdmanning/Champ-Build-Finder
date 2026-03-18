@@ -43,7 +43,7 @@ async function runRedirectTest(page, context, siteKey, champ, name, expectedUrlP
     await expect(page.getByText(err, { exact: false })).not.toBeVisible({ timeout: 5000 });
   }
 
-  // Testing took exactly 3 hours with 1 worker on a 4 second delay and 
+  // Testing took exactly 3 hours with 1 worker on a 4 second delay. Not to bad.
   await page.waitForTimeout(4000);
 }
 

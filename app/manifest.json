@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Champ Build Finder",
   "short_name": "Champ Build Finder",
-  "description": "Find a champions best build quickly and consistently on your favorite build recommendation websites.",
+  "description": "Find a champions build quickly and consistently on your favorite build recommendation websites.",
   "version": "1.0.1",
   "author": "Starswept Development",
   "icons": {
