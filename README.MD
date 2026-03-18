@@ -24,7 +24,7 @@ Champ Build Finder streamlines your pre-game preparation by mapping champion nam
 * **Curated Analytics Sites:** Choose from a variety of the top build analytics websites and set your favorite as the default destination.
 
 
-## 🌐 Supported Analytics Platforms
+## 🌐 Supported Platforms
 Champ Build Finder works with the most popular platforms to ensure you get the data you trust.
 
 <p>
