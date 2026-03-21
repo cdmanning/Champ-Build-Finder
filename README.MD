@@ -1,4 +1,4 @@
-# ![](documentation/ReadMeIcon.png) Champ Build Finder 
+# ![](docs/assets//ReadMeIcon.png) Champ Build Finder 
 
 Champ Build Finder streamlines your pre-game preparation by mapping champion names directly to your favorite analytics platform. Searching the web for build recommendations is often slow and prone to inconsistent results; our extension bypasses the clutter, ensuring you have the exact information you need, exactly when you need it, so you can spend less time in the browser and more time on the Rift.
 
