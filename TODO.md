@@ -4,6 +4,7 @@
 - [ ] [FEAT] Add tierlist support (e.g. Role-based Tierlists, Mode-based Tierlists)
 
 ## 🧪 Automated Testing (Playwright)
+- [ ] [TEST] Configure Github Actions to run tests automatically.
 
 ## ✅ Completed
 - [x] [DATA] Create champions.json file to map champion names to slugs.
@@ -12,7 +13,7 @@
 - [x] [TEST] Confirm that the correct page loads for each champion alias for every supported site.
 - [x] [TEST] Confirm incorrect entry fallback to the preselected analytics site. 
 - [x] [DATA] Implement exceptions.json to handle site-specific URL overrides for non-standard champion slugs.
-- [ ] 
+
 ---
 
 ## 🏷️ Tag Glossary & Descriptions
